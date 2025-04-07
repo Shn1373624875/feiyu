@@ -3,7 +3,7 @@
   - [2.1 检查器(Checker)配置流程](#21-检查器checker配置流程)
 
 
-  1212112
+  1212112 收到a 
 theme: jekyll-theme-minimal
 title: Octocat's homepage
 description: Bookmark this to keep an eye on my project updates!
